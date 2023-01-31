@@ -2,7 +2,7 @@
 ## 这是一个Markdown测试文件，用来学习Markdown语法使用。
 
 我的个人网站：
-[一个简陋的小网站]https://littlefish2023.github.io
+[一个简陋的小网站](https://littlefish2023.github.io)
 
 ------
 
